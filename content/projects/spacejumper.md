@@ -7,7 +7,7 @@
 "tags": ["phaser3", "javascript", "game"],
 "fact": "",
 "github": "https://github.com/phptuts/space-jumper",
-"featured":false
+"featured":true
 }
 
 This is a space jumper game buitl in phaser 3. It uses animations, physics, and sprite groups. The assets for the game came from kenny.nl.
