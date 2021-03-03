@@ -40,7 +40,7 @@ i.e. add `category`
 ...
 ```
 
-### Edit fuse.js option to Search
+### Edit fuse.js options to Search
 
 `static/js/search.js`
 
