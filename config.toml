@@ -1,5 +1,5 @@
 title = "Noah Glaser"
-baseURL = "https://www.codingwithnoah.com"
+baseURL = "https://codingwithnoah.com/"
 theme = "resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
