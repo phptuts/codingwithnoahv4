@@ -31,11 +31,11 @@ link = "https://github.com/phptuts/"
 name = "GitHub"
 
 [[params.handles]]
-link = "hthttps://www.youtube.com/channel/UCjWnee4Cv1MESU8ALLsHdCAtps://keybase.io/edwardawebb"
+link = "https://www.youtube.com/channel/UCjWnee4Cv1MESU8ALLsHdCA"
 name = "YouTube"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/edwardwebb/"
+link = "https://www.linkedin.com/in/noahglaser-ca/"
 name = "LinkedIn"
 
 [outputs]
