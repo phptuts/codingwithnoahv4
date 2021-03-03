@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Code Coach",
+    "company": "The Coder School Berkeley",
+    "summary": "I taught students between the ages of 8 to 13 how to code. I would teach them the basics of Python, Lua, and Javascript. I would go over everything from machine learning to building simple games in Scratch. Some of the web projects we did with the students.\n- Madlib Website that used the browser’s speak synthesis API\n- Snake game built in React\n- Firebase app with authentication that would store bookmarks.",
+    "range": "Dec 2019 - Present"
+  },
+  {
+    "role": "Web Developer",
+    "company": "App Strickr",
+    "summary": "I built an MVP for people interested in build tutorials that appear on the site they are using. I built this with Svelte and Sapper using firestore the backend and for hosting the app. The app was built with Github actions. I also built the chrome extensions and a custom web component to display on the website. The website also used the interact.js for resizing the box where the tutorial was in. I left the startup after the MVP was complete.",
+    "range": "Nov 2020 - February 2020"
+  },
+  {
+    "role": "Senior PHP Payment Engineer",
+    "company": "Zoosk",
+    "summary": "I was responsible for writing code that dealt with sales tax, credit card processing (Adyen), 3DS integration, delayed capture timing, email receipts, and much more. I also set up our unit test automation and worked toward getting our code on composer where we did not commit our dependencies. I was also working on dependency injection instead to replace the static method calling in our app.",
+    "range": "June 2018 - June 2020"
+  },
+  {
+    "role": "Senior PHP  Engineer",
+    "company": "FloSports",
+    "summary": "Full Stack PHP Developer mainly focused on security and Stripe subscription integration. My main responsibility was to rewrite the subscription and user authentication system in Symfony. We did this using JWT token and refresh tokens. I was able to help build full suite unit tests and end-to-end tests to ensure that everything worked. I also worked with backbone and angular 2 to build their customer service dashboard and contribute to the frontend.",
+    "range": "March 2015 - Dec 2017"
+  },
+  {
+    "role": "Web Developer",
+    "company": "Ventrifuge",
+    "summary": "I built a social networking site that helped people find business partners. I used Symfony and doctrine for the backend. I also used Bootstrap and jQuery for the frontend. I also got to learn how to integrate Elasticsearch into a Symfony project.",
+    "range": "2014 September - 2015 Feb"
+  },
+  {
+    "role": "PHP Developer",
+    "company": "Cinsay",
+    "summary": "I helped build the frontend and mid-layer of the admin panel. We used HTML5, jquery, jQuery UI, and Twitter Bootstrap as our javascript and CSS libraries. I hooked up a subscription API to our platform that used Soap. I also built and studied Symfony forms and Collections.",
+    "range": "2013 October - 2014 September"
+  }
+]

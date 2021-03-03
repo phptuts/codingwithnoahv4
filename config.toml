@@ -1,3 +1,45 @@
-baseURL = "http://example.org/"
+title = "Noah Glaser"
+baseURL = "https://codingwithnoah.com/"
+theme = "resume"
 languageCode = "en-us"
-title = "My New Hugo Site"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Emeryville, CA"
+email = "glaserpower@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Noah"
+lastName = "Glaser"
+phone = "1-555-555-1234"
+profileImage = "img/profile.jpg"
+showEducation = false
+showClasses = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = false
+showSkills = true
+
+
+
+[[params.handles]]
+link = "https://github.com/phptuts/"
+name = "GitHub"
+
+[[params.handles]]
+link = "hthttps://www.youtube.com/channel/UCjWnee4Cv1MESU8ALLsHdCAtps://keybase.io/edwardawebb"
+name = "YouTube"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/edwardwebb/"
+name = "LinkedIn"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

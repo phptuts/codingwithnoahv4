@@ -1,0 +1,54 @@
+[
+  {
+    "grouping": "Web Backend",
+    "skills": [
+      "Symfony",
+      "Node",
+      "Express",
+      "Laravel",
+      "Doctrine",
+      "PHPUnit",
+      "Composer",
+      "TypeORM",
+      "JWT Tokens",
+      "GitHub Actions",
+      "Cloud Functions",
+      "REST"
+    ]
+  },
+  {
+    "grouping": "Web Frontend",
+    "skills": [
+      "Svelte",
+      "Sapper",
+      "Angular",
+      "CSS3",
+      "HTML5",
+      "npm",
+      "Chrome Extensions",
+      "Phaser",
+      "Jest",
+      "Jasmine"
+    ]
+  },
+  {
+    "grouping": "Databases",
+    "skills": ["MySQL", "Redis", "Firebase"]
+  },
+  {
+    "grouping": "Langauges",
+    "skills": [
+      "PHP",
+      "Javascript",
+      "Java",
+      "Python",
+      "Kotlin",
+      "C",
+      "Typescript",
+      "Lua",
+      "SQL",
+      "CSS",
+      "HTML"
+    ]
+  }
+]
