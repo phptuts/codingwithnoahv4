@@ -6,7 +6,7 @@
 "description": "A website that allows you to control an LED Matrix from your browser!",
 "tags": [ "Arduino", "Svelte", "Serial"],
 "fact": "",
-"github": "https://github.com/ElectroBlocks/ElectroBlocks",
+"github": "https://github.com/phptuts/led-matrix-led-yt",
 "featured":true
 }
 
