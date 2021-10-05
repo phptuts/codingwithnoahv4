@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", serif;
+  font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Saira Extra Condensed", serif;
+  font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   color: #343a40;
 }
@@ -39,7 +39,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: "Saira Extra Condensed", serif;
+  font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
 }
 
@@ -154,6 +154,9 @@ a:active {
 
 img {
   max-width: 80%;
+  max-height: 500px;
+  padding: 10px;
+  border: solid 1px gray;
 }
 
 .resume-content {
