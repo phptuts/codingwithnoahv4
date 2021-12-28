@@ -1,9 +1,15 @@
 [
   {
+    "role": "Senior PHP Developer",
+    "company": "Aloft",
+    "summary": "I mainly do Laravel as a backend developer.  I also work on their customer service dashboard and have helped with database migrations and SQL scripts.",
+    "range": "April 2021  - Present"
+  },
+  {
     "role": "Code Coach",
     "company": "The Coder School Berkeley",
     "summary": "I taught students between the ages of 8 to 13 how to code. They learned the basics of Python, Lua, and Javascript. We went over everything from machine learning to building simple games in Scratch. Some examples of the web projects I did with the students:\n- Madlib Website that used the browser’s speak synthesis API\n- Snake game built in React\n- Firebase app with authentication that would store bookmarks.",
-    "range": "Dec 2019 - Present"
+    "range": "Dec 2019 - Sept 2021"
   },
   {
     "role": "Web Developer",
